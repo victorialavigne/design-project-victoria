@@ -1,0 +1,236 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+header {
+    border: 1px solid black;
+    text-align: center;
+    background-color: lightblue;
+    color: black;
+    height: 100px;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    width: 100%;
+    z-index: 2;
+}
+.topnav {
+    background-color: rgb(64, 183, 183);
+    overflow: hidden;
+    position: relative;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: darkcyan;
+    color: white;
+}
+h3 {
+    text-align: center;
+    position: relative;
+    font-size: 40px;
+}
+.red1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+}
+.red2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+}
+.red3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+}
+.orange1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+    bottom: -95px;
+}
+.orange2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -75px;
+}
+.orange3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -95px;
+}
+.yellow1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%;
+    bottom: -370px; 
+}
+.yellow2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -370px; 
+}
+.yellow3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -370px; 
+}
+.lightblue1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+    bottom: -675px;
+}
+.lightblue2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -665px;
+}
+.lightblue3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -675px;
+}
+.blue1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+    bottom: -950px;
+}
+.blue2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -930px;
+}
+.blue3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -950px;
+}
+.purple1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+    bottom: -1230px;
+}
+.purple2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -1210px;
+}
+.purple3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -1245px;
+}
+.pink1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+    bottom: -1510px;
+}
+.pink2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -1510px;
+}
+.pink3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -1510px;
+}
+.lightpink1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+    bottom: -1795px;
+}
+.lightpink2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -1775px;
+}
+.lightpink3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -1795px;
+}
+.white1 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 8%; 
+    bottom: -2090px;
+}
+.white2 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 38%;
+    bottom: -2085px;
+}
+.white3 {
+    width: 350px;
+    display: block;
+    position: absolute;
+    left: 68%;
+    bottom: -2090px;
+}
+.credits {
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+}
